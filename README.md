@@ -1,2 +1,1 @@
-# rtu-golang-fundamentals
-Academic projects and laboratory works focused on Core Golang, algorithms, and data structures at RTU.
+This repository contains a collection of academic projects and laboratory works focused on foundational computer science concepts, developed during my second year at Riga Technical University (RTU).
